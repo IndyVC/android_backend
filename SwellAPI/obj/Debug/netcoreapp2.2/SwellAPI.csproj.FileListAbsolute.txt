@@ -1,0 +1,14 @@
+C:\Users\Indy\source\repos\SwellAPI\SwellAPI\bin\Debug\netcoreapp2.2\SwellAPI.deps.json
+C:\Users\Indy\source\repos\SwellAPI\SwellAPI\bin\Debug\netcoreapp2.2\SwellAPI.runtimeconfig.json
+C:\Users\Indy\source\repos\SwellAPI\SwellAPI\bin\Debug\netcoreapp2.2\SwellAPI.runtimeconfig.dev.json
+C:\Users\Indy\source\repos\SwellAPI\SwellAPI\bin\Debug\netcoreapp2.2\SwellAPI.dll
+C:\Users\Indy\source\repos\SwellAPI\SwellAPI\obj\Debug\netcoreapp2.2\SwellAPI.csprojAssemblyReference.cache
+C:\Users\Indy\source\repos\SwellAPI\SwellAPI\obj\Debug\netcoreapp2.2\SwellAPI.csproj.CoreCompileInputs.cache
+C:\Users\Indy\source\repos\SwellAPI\SwellAPI\obj\Debug\netcoreapp2.2\SwellAPI.RazorAssemblyInfo.cache
+C:\Users\Indy\source\repos\SwellAPI\SwellAPI\obj\Debug\netcoreapp2.2\SwellAPI.RazorAssemblyInfo.cs
+C:\Users\Indy\source\repos\SwellAPI\SwellAPI\obj\Debug\netcoreapp2.2\SwellAPI.AssemblyInfoInputs.cache
+C:\Users\Indy\source\repos\SwellAPI\SwellAPI\obj\Debug\netcoreapp2.2\SwellAPI.AssemblyInfo.cs
+C:\Users\Indy\source\repos\SwellAPI\SwellAPI\obj\Debug\netcoreapp2.2\SwellAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Indy\source\repos\SwellAPI\SwellAPI\bin\Debug\netcoreapp2.2\SwellAPI.pdb
+C:\Users\Indy\source\repos\SwellAPI\SwellAPI\obj\Debug\netcoreapp2.2\SwellAPI.dll
+C:\Users\Indy\source\repos\SwellAPI\SwellAPI\obj\Debug\netcoreapp2.2\SwellAPI.pdb
